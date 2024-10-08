@@ -1,0 +1,8 @@
+APLICAȚIE - CONVERSIE UNITĂȚI DE MĂSURĂ
+
+VERSIUNEA 1.0.0  = Constituie prima versiune de funcționare a aplicației în care putem converti valorile standard întregi ale lungimii pentru multipli și submultipli ;
+VERSIUNEA 1.1.0 = Adăugarea butonului de swap între valori ;
+VERSIUNEA 1.1.3 = S-a rezolvat bugul butonului la apăsarea repetată unde dispărea valorea inserată ;
+VERSIUNEA 1.2.0 = Posibilitatea de a putea folosi valori de tip float ;
+VERSIUNEA 2.0.0 = Adăugarea secțiunilor separate pentru arie și volum ;
+VERSIUNEA 2.0.1 = Conversie între unități incompatibile ,de exemplu o valoare de arie în valoare de volum ;
